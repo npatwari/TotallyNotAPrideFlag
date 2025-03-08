@@ -1,5 +1,4 @@
-# TotallyNotAPrideFlag
-Where it is now illegal to display a pride or trans flag, display these functions instead.
+# Totally Not A Pride Flag
+Where it is now illegal to display a pride or trans flag, display these functions instead. I mean, math isn't political, right ;)
 
-Uses colormaps from https://github.com/cgallinger/pride_palettes
-
+Credit for colormaps to https://github.com/cgallinger/pride_palettes
